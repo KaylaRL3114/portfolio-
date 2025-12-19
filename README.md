@@ -3,7 +3,7 @@
 ## persinal info : Langaricakayla31@gmail.com
 
 ### certifications
-[certification](https://github.com/KaylaRL3114/portfolio-/blob/main/images/Kayla%20Langarica_Computer%20Programming%201_12182025.pdf)
+[certification](https://github.com/KaylaRL3114/portfolio-/blob/main/images/certification1.pdf)
 
 ### Projects for Term 1
 
